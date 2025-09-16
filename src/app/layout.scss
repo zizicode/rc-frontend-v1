@@ -1,5 +1,5 @@
 $min-height-main: 100vh;
-$height-header: 60px;
+$height-header: 70px;
 
 .main {
   position: relative;
@@ -29,7 +29,7 @@ $height-header: 60px;
 
       .logo {
         max-width: 60px;
-        height: calc($height-header - 2rem);
+        height: calc($height-header - 1rem);
         margin: auto 0;
         text-align: center;
 
